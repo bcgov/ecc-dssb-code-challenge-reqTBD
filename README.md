@@ -70,7 +70,8 @@ Your API should include at minimum the following functionality:
         ],
         scrumMasterName: VALUE,
         startDate: "YYYY/MM/DD",
-        methodology: VALUE
+        methodology: VALUE,
+        location: VALUE
     }
 ```
 
@@ -124,6 +125,7 @@ And all relevant information related to each product
 * Developer Names (up to 5)
 * Start Date
 * Methodology (Agile or Waterfall)
+* Location (Github repository link which can be any project under github.com/bcgov organization for demo purposes)
 
 **Acceptance Criteria**
 * All columns fit on the page
@@ -163,6 +165,7 @@ Then I am able to edit the following fields:
 * Product Owner
 * Developer Names (up to 5)
 * Methodology (Agile or Waterfall)
+* Location (Github repository link which can be any project under github.com/bcgov organization for demo purposes)
 
 **Acceptance Criteria**
 * Call to action button for saving exits  
