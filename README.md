@@ -38,7 +38,7 @@ Your working solution should be present on the **main** branch of the repository
 
 Your submission to the marking panel should come in the form of a link to the repository you have created with your working solution.
 
-Please send the final copy of your solution via a link to your repository in an email to harshit.kohli@gov.bc.ca .
+Please send the final copy of your solution via a link to your repository in an email to chris.ditcher@gov.bc.ca and include ecc-dssb-code-challenge-reqTBD in the subject line.
 
 ### API Component
 
